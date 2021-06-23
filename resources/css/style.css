@@ -308,3 +308,7 @@ footer p{
     color:white;
     text-decoration: none;
 }
+.section-features iframe{
+    height:50%;
+    width:80%;
+}
